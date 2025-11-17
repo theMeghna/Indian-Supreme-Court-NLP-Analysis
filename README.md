@@ -1,5 +1,5 @@
-🏛️ VerdictAI: Supreme Court Judgment Analysis and Briefing System
-This project implements a comprehensive Legal-Tech pipeline to analyze metadata and full-text judgments from the Indian Supreme Court. It combines traditional NLP techniques (NLTK, SVM) with modern Generative AI (LLM concepts) to automate the creation of structured case briefs and extract critical legal insights.
+## 🏛️ VerdictAI: Supreme Court Judgment Analysis and Briefing System
+### This project implements a comprehensive Legal-Tech pipeline to analyze metadata and full-text judgments from the Indian Supreme Court. It combines traditional NLP techniques (NLTK, SVM) with modern Generative AI (LLM concepts) to automate the creation of structured case briefs and extract critical legal insights.
 
 💡 Project Objectives
 The primary goal is to transform long, unstructured legal documents into actionable, summarized data points.
